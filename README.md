@@ -1,9 +1,8 @@
-![0x1900-000000-80-0-0](https://github.com/user-attachments/assets/e582fbb3-1573-4226-a6c4-f9bac46bd887)<!-- 欢迎来到 YOURNAME 的 GitHub 主页！ -->
+<!-- 欢迎来到 YOURNAME 的 GitHub 主页！ -->
 
 <div align="center">
 
-<img src="![0x1900-000000-80-0-0](https://github.com/user-attachments/assets/352ab1d8-5f38-4cbc-9e97-092b040fe0b9)
-" width="200" alt="Miku waving"/>
+<img src="https://i.pinimg.com/736x/9e/07/3b/9e073bbd735d77086621d81dffce4453.jpg" width="200" alt="Miku waving"/>
 
 # Hi~ 你好呀！我是 michael
 
