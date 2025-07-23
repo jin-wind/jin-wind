@@ -25,11 +25,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![CTF](https://img.shields.io/badge/-CTF-FF69B4?style=for-the-badge)
-![Miku](https://img.shields.io/badge/-初音未来-Miku-39C5BB?style=for-the-badge)
 
-
-<img src="https://i.imgur.com/k3xjWkX.gif" width="120" alt="Miku dancing"/>
-
-_“谢谢你来看我的主页，希望你也喜欢 Miku！”_
+_“希望你也喜欢 Miku！”_
 
 </div>
